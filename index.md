@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+<center>
+     <h1>拨浪鼓手</h1>
+     <div>
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/phone-solid.svg" width="18px">
+             15555943633
+         </span>
 
-You can use the [editor on GitHub](https://github.com/dujiaxinwen/crispy-parakeet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/envelope-solid.svg" width="18px">
+             2451429321@qq.com
+         </span>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://github.com/mqxu">我的Github</a>
+         </span>
 
-### Markdown
+         <span>
+             <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/avatar/me.jpg" width="18px">
+             <a href="https://mqxu.github.io/blog.github.io/">我的博客</a>
+         </span>
+     </div>
+ </center>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+ ## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/info-circle-solid.svg" width="30px"> 个人信息
 
-# Header 1
-## Header 2
-### Header 3
+ - JAVA 工程师
+ - 工作经验：0.1年
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-**Bold** and _Italic_ and `Code` text
+- 在读学士，南京工业职业技术大学，软件工程专业，2021.9~2023.7
 
-[Link](url) and ![Image](src)
-```
+## <img src="https://niit-soft.oss-cn-hangzhou.aliyuncs.com/assets/briefcase-solid.svg" width="30px"> 工作经历
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dujiaxinwen/crispy-parakeet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ** 暂无~**
